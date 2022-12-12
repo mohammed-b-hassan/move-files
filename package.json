@@ -1,0 +1,23 @@
+{
+  "name": "move-files",
+  "version": "1.0.0",
+  "description": "simple script tp copy  folders and  files",
+  "main": "index.js",
+  "scripts": {
+    "move":"node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/i7moda2000/move-files.git"
+  },
+  "author": "Mohammed Hassan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/i7moda2000/move-files/issues"
+  },
+  "homepage": "https://github.com/i7moda2000/move-files#readme",
+  "dependencies": {
+    "fs-extra": "^11.1.0"
+  }
+}
